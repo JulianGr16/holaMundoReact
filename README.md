@@ -1,8 +1,9 @@
-# React + Vite
+# Trabajo practico react - autor: Julian Garay 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Componente "HOLA MUNDO"
 
-Currently, two official plugins are available:
+El ejercicio consistia en crear un componente de react que muestre por pantalla un "HOLA MUNDO".
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
